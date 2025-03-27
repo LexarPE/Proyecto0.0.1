@@ -12,3 +12,7 @@ Este es un proyecto para practicar la creacio de componentes dinamicos con Js
 1. Clona el repositorio:  
    ```sh
    git clone https://github.com/LexarPE/Proyecto0.0.1.git
+
+## 💻 Web
+```sh
+   https://lexarpe.github.io/Proyecto0.0.1/
